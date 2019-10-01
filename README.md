@@ -12,6 +12,6 @@ And replace files given in the repository
 And then upload the .sql file in your database
 
 And change the Db_name, DB_username, DB_password,Mail_Username and Password in the .env file according to your gmail id 
-and run command php artisan serve on cmd
+and run command php artisan serve on command line 
   
     
