@@ -12,8 +12,8 @@
 }
 @media (max-width:1300px){
 	.testimonials_area .owl-prev, .testimonials_area .owl-next {
-		right: auto;
-		left: 50%;
+		right: left;
+		left: 55%;
 		transform: translateX(-50%);
 		bottom: 25px;
 		top: auto;
@@ -22,7 +22,7 @@
 		transform: rotate(90deg);
 	}
 	.testimonials_area .owl-next{
-		transform: rotate(90deg);
+		transform: rotate(99deg);
 		margin-left: -40px;
 	}
 }
@@ -30,7 +30,7 @@
 	/* Main Menu Area css
 	============================================================================================ */
 	.header_area .navbar .nav .nav-item {
-		margin-right: 28px;
+		margin-right: 29px;
 	}
 	/* End Main Menu Area css
 	============================================================================================ */
@@ -73,13 +73,13 @@
 	}
 	.navbar-toggler[aria-expanded="true"] span:last-child {
 		transform: rotate(45deg);
-		bottom: 6px;
+		bottom: 66px;
 		position: relative;
 	}
 	.navbar-toggler span{
 		display: block;
 		width: 25px;
-		height: 3px;
+		height: 35px;
 		background: #4dbf1c;
 		margin: auto;
 		margin-bottom: 4px;
@@ -100,7 +100,7 @@
         padding: 0px;
     }
     .header_area .navbar .nav .nav-item .nav-link{
-        line-height: 40px;
+        line-height: 400px;
         margin-right: 0px;
         display: block;
 		border-bottom: 1px solid #ededed33;
@@ -123,7 +123,7 @@
 		margin-right: 0px;
 	}
 	.header_area + section, .header_area + row, .header_area + div {
-		margin-top: 116px;
+		margin-top: 126px;
 	}
 	/* End Main Menu Area css
 	============================================================================================ */
