@@ -10,6 +10,7 @@ class PassController extends Controller
 {
     public function index(Request $request)
     {
+        //Dhobhi
         $otp = $request->Input('otp');
         $pass = $request->Input('password');
         $conpass = $request->Input('confirmPassword');
